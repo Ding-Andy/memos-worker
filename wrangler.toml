@@ -19,5 +19,5 @@ preview_id = ""
 
 [[r2_buckets]]
 binding = "NOTES_R2_BUCKET"
-bucket_name = "e5bdcbc1a5e21d5f03100fae02fbbdcc_notes-r2-bucket"
+bucket_name = "notes-r2-bucket"
 preview_bucket_name = "notes-files-preview"
